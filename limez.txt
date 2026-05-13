@@ -1,8 +1,8 @@
-#profile-title: TreeVpn
+#profile-title: Lime Vpn
 
 #profile-update-interval: 1
 
-#support-url: https://t.me/nipuik
+#support-url: https://t.me/Squadlime
 
 #announce: Срок окончания подписки смотри в боте @Limeproxybot👈 поддержка ⚡-ютуб без рекламы.
 
